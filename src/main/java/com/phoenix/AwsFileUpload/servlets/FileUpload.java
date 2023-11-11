@@ -1,7 +1,5 @@
 package com.phoenix.AwsFileUpload.servlets;
 
-import com.phoenix.AwsFileUpload.util.Upload;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.MultipartConfig;
 import javax.servlet.annotation.WebServlet;
